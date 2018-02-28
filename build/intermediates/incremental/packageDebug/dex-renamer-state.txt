@@ -1,0 +1,7 @@
+#Fri Jun 23 20:14:16 VLAT 2017
+base.0=F\:\\Android Projects\\BarCodeScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_858c684246ac6a7ea949d954f9b0d4b7f09a5c8c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Android Projects\\BarCodeScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_deee84b7b285045dbefb37d0c778d8c7b5ade786\\classes.dex
+base.1=F\:\\Android Projects\\BarCodeScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_deee84b7b285045dbefb37d0c778d8c7b5ade786
+file.0=F\:\\Android Projects\\BarCodeScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_858c684246ac6a7ea949d954f9b0d4b7f09a5c8c\\classes.dex
